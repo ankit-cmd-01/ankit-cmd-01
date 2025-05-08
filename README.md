@@ -31,9 +31,9 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Developer with a love f
 
 ## 📫 Get in Touch
 
-- Email: ankits@example.com
-- LinkedIn: [Ankit Shinde]()
-- Portfolio: [www.yourportfolio.com]()
+- Email: ankitstorage2023@gmail.com
+- LinkedIn: linkedin.com/in/ankit-shinde-8bbb65251
+
 
 ---
 
